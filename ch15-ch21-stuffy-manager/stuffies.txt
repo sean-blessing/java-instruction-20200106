@@ -1,0 +1,3 @@
+1	Bunny	White	Large	4
+2	Dog	Blue	Small	6
+3	Giraffe	Orange	X-Large	4

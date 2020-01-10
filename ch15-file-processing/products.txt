@@ -1,0 +1,4 @@
+.net	Murach's .Net and C#	59.50
+ang	Murach's Angular	69.50
+ang	Murach's Angular	69.50
+ang	Murach's Angular	69.50
